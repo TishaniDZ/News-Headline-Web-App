@@ -1,0 +1,15 @@
+/* basic mobile optimization */
+@media (max-width: 768px) {
+  .headline-card {
+    padding: 10px;
+    margin-bottom: 15px;
+  }
+
+  .headline-card img {
+    width: 100%;
+  }
+
+  .headline-card h2 {
+    font-size: 18px;
+  }
+}
